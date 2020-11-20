@@ -1,3 +1,3 @@
 # Predator-Prey
 
-Models a cellular automaton for an imagined Predator-Prey application.
+A model for for an imagined Predator-Prey cellular automaton application.
